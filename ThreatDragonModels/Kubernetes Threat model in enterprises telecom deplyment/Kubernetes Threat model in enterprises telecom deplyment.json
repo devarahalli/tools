@@ -1,10 +1,17 @@
 {
   "summary": {
     "title": "Kubernetes Threat model in enterprises telecom deplyment",
-    "owner": "PD"
+    "owner": "PD",
+    "description": "Kubernetes Threat model in enterprises telecom deplyment"
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "Threat Model",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
