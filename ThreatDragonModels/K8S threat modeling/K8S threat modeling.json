@@ -1,0 +1,10 @@
+{
+  "summary": {
+    "title": "K8S threat modeling",
+    "description": "Threat modeling the Kubernetes deployment."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
